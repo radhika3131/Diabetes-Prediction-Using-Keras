@@ -13,7 +13,7 @@ Build a simple neural network using Keras and TensorFlow.
 Assess model performance using classification metrics and visualizations.
 
 ## Dataset
-The dataset used for this project is the Pima Indians Diabetes dataset. You can find it here.
+The dataset used for this project is the Pima Indians Diabetes dataset. You can find it [here](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database).
 
 ## Run the Code
 ```
