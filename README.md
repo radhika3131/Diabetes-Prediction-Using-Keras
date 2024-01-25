@@ -42,7 +42,29 @@ python Diabetes_Prediction_Using_Keras.py
 ```
 ## Visualizations
 
-Pairplot showing relationships between features and outcomes.
+### Pairplot showing relationships between features and outcomes.
+
+![output](https://github.com/radhika3131/Diabetes-Prediction-Using-Keras/assets/102825662/8d6f598c-48f0-4ec7-8361-2ead6aeb7352)
+
+
+### correlation matrix for predicting the most relevant variable for linear regression
+
+![output2](https://github.com/radhika3131/Diabetes-Prediction-Using-Keras/assets/102825662/6c955d27-43f2-46ad-a31a-766e55f8615f)
+
+
+### Distribution plot to see how distribution has changed
+
+![output3](https://github.com/radhika3131/Diabetes-Prediction-Using-Keras/assets/102825662/5ca59dc9-69fd-499e-a5db-dc5a083bbe46)
+
+
+### plots of the training and validation accuracies and losses with the epochs on the x-axis. 
+
+![output4](https://github.com/radhika3131/Diabetes-Prediction-Using-Keras/assets/102825662/96a694af-d470-4a18-84d7-1a88159f5cc6)
+
+
+## Result
+* Achieved an accuracy of 75.97% on the test set.
+* A detailed confusion matrix and classification metrics are available in the 'result' directory.
 
 ## Acknowledgments
-Special thanks to the National Institute of Diabetes and Digestive and Kidney Diseases for providing the dataset.
+Thanks to the National Institute of Diabetes and Digestive and Kidney Diseases for providing the dataset.
